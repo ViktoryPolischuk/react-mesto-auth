@@ -1,0 +1,10 @@
+.auth__field{
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 30px;
+}
+
+.auth__field:last-of-type {
+  margin-bottom: 216px;
+}
+
